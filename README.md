@@ -51,11 +51,9 @@ ________________________________________________________________________________
 
 Q: Will I get banned for using this?
 
-A: It is highly unlikely for the blooket staff to detect that you are exploiting, but just
-in case, do not over-use the script, meaning not to create unusual patterns on the platform 
-(for example, being number 1 90% of the time, while before you only were number 1 20% of the 
-time. Or, earning full 500 coins for 5 weeks, while before you can't even earn 40 coins in
-a whole week. 
+A: It is highly unlikely for the blooket staff to detect that you are exploiting. However, they 
+COULD detect you if you changed the code, for things such as changing the daily token limit of 
+500, or changing the daily xp value.
 ____________________________________________________________________________________________
 
 Q: Are you guys trying to hack me? Is this legit?

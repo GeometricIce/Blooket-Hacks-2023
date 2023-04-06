@@ -1,4 +1,4 @@
-# Blooket Hacks (Updated 3/6/2023) Current Status: Working ✔
+# Blooket Hacks (Updated 4/6/2023) Current Status: Working ✔
 This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
 
 
@@ -90,6 +90,6 @@ Link for our discord: https://discord.gg/QznzysxvX4 (Join if you need extra assi
  | | |_ |  __|    | |    |  _ <|  __|    | |     | |  |  __| |  _  /   \___ \| |    |  _  /  | | |  ___/  | |  \___ \| |
  | |__| | |____   | |    | |_) | |____   | |     | |  | |____| | \ \   ____) | |____| | \ \ _| |_| |      | |  ____) |_|
   \_____|______|  |_|    |____/|______|  |_|     |_|  |______|_|  \_\ |_____/ \_____|_|  \_\_____|_|      |_| |_____/(_)
-  10612 total views
+  12,504 total views
                                                                                                                         
                                                                                                                         

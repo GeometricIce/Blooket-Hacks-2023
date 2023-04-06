@@ -1,11 +1,8 @@
-# Blooket Hacks (Updated 3/31/2023) Current Status: Working ✔
+# Blooket Hacks (Updated 3/6/2023) Current Status: Working ✔
 This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
 
 
-** Development will be temporarily paused as our scripter has been discontinued. 
-We are currently exploring other options and will keep you all updated on any updates. *
-
-█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▓▒░𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙚𝙫𝙚𝙧𝙮 𝙬𝙚𝙚𝙠!░▒▓█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█
+▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▓▒░𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙚𝙫𝙚𝙧𝙮 𝙬𝙚𝙚𝙠!░▒▓█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█
 ~~~~~~~~~~~ Why You should use this gui : ~~~~~~~~~~~       ~~~~~~~~~Features of This GUI: ~~~~~~~~~~~~~
 -Extremely Fast Loading Time.                                  🌎 Global Scipts : 
 -Scripted by Minesraft2 to make it customisible                 - Auto Answer (Toggle)

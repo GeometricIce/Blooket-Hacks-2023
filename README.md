@@ -1,4 +1,4 @@
-# Blooket Hacks (Updated 4/17/2023) Current Status: Working ✔
+# Blooket Hacks (Updated 4/25/2023) Current Status: Working ✔
 This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
 
 
@@ -42,7 +42,7 @@ Factor 2, 𝕋𝕙𝕖 𝕤𝕔𝕣𝕚𝕡𝕥 𝕚𝕤 𝕓𝕣𝕠𝕜𝕖�
 Ijustescapedyesterday@gmail.com
 Factor 3: 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙄𝙨𝙨𝙪𝙚𝙨. Try rebooting your computer or logging in on blooket to your
 account that is unbanned. Has to be a student account in order to work.
-Factor 4: 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐯𝐞 𝐈𝐬𝐬𝐮𝐞𝐬. Try using another browser (EG: Chrome, Edge Firefox) that could 
+Factor 4: 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐯𝐞 𝐈𝐬𝐬𝐮𝐞𝐬. Try using another browser (EG: Chrome, Edge, Firefox) that could 
 use the inspect element, or check your browser settings for inspect element.
 _________________________________________________________________________________________
 

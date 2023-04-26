@@ -1,95 +1,198 @@
-# Blooket Hacks (Updated 4/25/2023) Current Status: Working ✔
-This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
+<p align="center">Cheats made by someone who knows more about what they're doing</p>
+<h2 align="center">Check out the <a href="https://github.com/Minesraft2/Blooket-Cheats/tree/content">content branch</a> for more cheats</h2>
+<h3 align="center"><a href="https://discord.gg/QznzysxvX4">Support Server</a></h2>
+<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
+
+# Vision Board
+
+- [ ] Auto Play
+- [ ] GUI ingame chat for cheaters? (Low chance of this happening)
+- [ ] More Racing cheats
+- [ ] Change name during game
+- [ ] Set players gold/crypto
+
+## Information
+
+<details><summary><h3>How to use</h3></summary>
+
+There are 3 good methods to using these scripts:
+1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/Minesraft2/Blooket-Cheats/blob/main/tutorial/readme.md)
+2. Going to the [GitHub pages site](https://minesraft2.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
+3. Copying a script and running it in the inspect element console
+</details>
+
+<details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
+
+We don't actually know what to do about this or how to fix it, sorry.
+</details>
+
+<details><summary><h3>(script) is not working?</h3></summary>
+
+Make sure you're running it properly (see [How to use](https://github.com/Minesraft2/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/Minesraft2/Blooket-Cheats/issues)
+</details>
+
+<details><summary><h3>What is the difference between obfuscated and unobfuscated?</h3></summary>
+
+Obfuscated are scripts that are changed to be unreadable, unobfuscated are the original scripts (both with an added update checker).
+Unobfuscated scripts will not work if you try copying it and pasting it into a bookmarklet. This is because of the lack of semicolons in certain places. Please either use the obfuscated scripts or use one of the methods mentions in the first FAQ
+</details>
+
+<details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
+
+No, these are things we would've already done if they were possible, they're managed on the backend of Blooket so we can't modify them
+</details>
+
+<details><summary><h3>Can you make hacks for (game)</h3></summary>
+
+I'll start making scripts for other games when the Blooket scripts stop needing so much maintenance
+</details>
+
+<details><summary><h3>Can you make more Battle Royale cheats</h3></summary>
+
+Battle Royale is a gamemode that works almost entirely on the host's end. The only thing we have control over is answering questions.
+</details>
+
+<details><summary><h3>Are you the same person as gliz?</h3></summary>
+
+No, I am not gliz. I'm a close friend who worked on the original Blooket cheats with him and took over after he got a cease and desist.
+</details>
+
+<details><summary><h3>How do I do this on mobile?</h3></summary>
+
+These scripts aren't made for mobile, so we don't really know how to get them to work on it.
+</details>
+
+<details><summary><h3>What's the Mobile GUI?</h3></summary>
+
+The mobile GUI is the original GUI I made long ago. Some people said it worked on mobile and it's a lot neater for mobile use apparently so we just called it that.
+</details>
 
 
-▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▓▒░𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙚𝙫𝙚𝙧𝙮 𝙬𝙚𝙚𝙠!░▒▓█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█
-~~~~~~~~~~~ Why You should use this gui : ~~~~~~~~~~~       ~~~~~~~~~Features of This GUI: ~~~~~~~~~~~~~
--Extremely Fast Loading Time.                                  🌎 Global Scipts : 
--Scripted by Minesraft2 to make it customisible                 - Auto Answer (Toggle)
--Includes a complete list of scripts                            -Highlight Answers (Toggle)
--instantaneous Hiding Command                                   -Auto Sell Dupes On Open
-                                                                -Remove Random Name (for classes)
-🧈 Gold Quest Scripts                                           -Sell Duplicates (Cheap or Expensive)
-🍞 Cafe Scripts                                                 -Easy To Navigate                                               
-💵 Crypto Hack Scripts                                          -Auto Sell Dupes On Open
-🐱‍🐉 Deceptive Dinos Scripts                                      -Remove Random Name (for classes)
-🗼 Tower Defense 1 & 2 Scripts                                  -Sell Duplicates (Cheap or Expensive)
-+ 🎯 9 More regular GAMEMODES and 1 EXCLUSIVE gamemode!         -Spam Buy Blooks
--Includes EVERY GAMEMODE, even limited ones                     -Enable Limited Gamemodes
-                                                                -Every Answer Correct
-                                                                -Get Daily Rewards
- 𓂀 𝒮𝓅𝑜𝓃𝓈𝑜𝓇𝑒𝒹 𝒷𝓎 𝒢𝒶𝓂𝑒𝓁𝒾𝓃𝓉™ 𓂀                                 -Use Any Blook                                                                
-𝐑𝐞𝐮𝐬𝐞 𝐨𝐟 𝐭𝐡𝐢𝐬 𝐜𝐨𝐝𝐞 𝐢𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝 𝐚𝐬 𝐥𝐨𝐧𝐠 𝐚𝐬 𝐭𝐡𝐞 𝐚𝐮𝐭𝐡𝐨𝐫𝐬 𝐚𝐫𝐞 𝐜𝐫𝐞𝐝𝐢𝐭𝐞𝐝  -Unlock Plus Gamemodes                                                              
-                                                                -Box Simulations (testing beta)
-                                                                -Highlight Answers (Toggle)
-~~~~~~~~~~~ How do I use this GUI? ~~~~~~~~~~~~~
-Using this gui is rather simple. 
-Step 1, go to the home page of this repository
-Step 2, click on "Hacks.Gui" file
-Step 3, Copy the entire code. 
-Step 4, Go to blooket.com 
-Step 5, right click and choose to inspect
-Step 6, After the inspect side-screen pops out, on the top, choose "Console"
-Step 7, Paste the code in and press enter
-You are all set! A gui should pop up.
+<details><summary><h2>List of Cheats</h2></summary>
 
-~~~~~~~~~~Questions~~~~~~~~~~~~~~~~~
-Q: Why isn't the script executing? 
+* [GUI](unobfuscated/gui.js)
+* [Mobile GUI](unobfuscated/mobileGui.js)
+### [Monster Brawl](unobfuscated/brawl)
+* [Double Enemy XP](unobfuscated/brawl/doubleEnemyXp.js)
+* [Half Enemy Speed](unobfuscated/brawl/halfEnemySpeed.js)
+* [Instant Kill](unobfuscated/brawl/instantKill.js)
+* [Invincibility](unobfuscated/brawl/invincibility.js)
+* [Kill Enemies](unobfuscated/brawl/killEnemies.js)
+* [Magnet](unobfuscated/brawl/magnet.js)
+* [Max Current Abilities](unobfuscated/brawl/maxCurrentAbilities.js)
+* [Next Level](unobfuscated/brawl/nextLevel.js)
+* [Remove Obstacles](unobfuscated/brawl/removeObstacles.js)
+* [Reset Health](unobfuscated/brawl/resetHealth.js)
+### [Cafe](unobfuscated/cafe)
+* [Max Items](unobfuscated/cafe/maxItems.js)
+* [Remove Customers](unobfuscated/cafe/removeCustomers.js)
+* [Reset Abilities](unobfuscated/cafe/resetAbilities.js)
+* [Set Cash](unobfuscated/cafe/setCash.js)
+* [Stock Food](unobfuscated/cafe/stockFood.js)
+### [Crypto Hack](unobfuscated/crypto)
+* [Always Triple](unobfuscated/crypto/alwaysTriple.js)
+* [Auto Guess](unobfuscated/crypto/autoGuess.js)
+* [Choice ESP](unobfuscated/crypto/choiceESP.js)
+* [Password ESP](unobfuscated/crypto/passwordESP.js)
+* [Remove Hack](unobfuscated/crypto/removeHack.js)
+* [Set Crypto](unobfuscated/crypto/setCrypto.js)
+* [Set Password](unobfuscated/crypto/setPassword.js)
+* [Steal Players Crypto](unobfuscated/crypto/stealPlayersCrypto.js)
+### [Deceptive Dinos](unobfuscated/dinos)
+* [Auto Choose](unobfuscated/dinos/autoChoose.js)
+* [Rock ESP](unobfuscated/dinos/rockESP.js)
+* [Set Fossils](unobfuscated/dinos/setFossils.js)
+* [Set Multiplier](unobfuscated/dinos/setMultiplier.js)
+* [Stop Cheating](unobfuscated/dinos/stopCheating.js)
+### [Tower of Doom](unobfuscated/doom)
+* [Fill Deck](unobfuscated/doom/fillDeck.js)
+* [Max Cards](unobfuscated/doom/maxCards.js)
+* [Max Health](unobfuscated/doom/maxHealth.js)
+* [Max Stats](unobfuscated/doom/maxStats.js)
+* [Min Enemy](unobfuscated/doom/minEnemy.js)
+* [Set Coins](unobfuscated/doom/setCoins.js)
+### [Factory](unobfuscated/factory)
+* [Choose Blook](unobfuscated/factory/chooseBlook.js)
+* [Free Upgrades](unobfuscated/factory/freeUpgrades.js)
+* [Max Blooks](unobfuscated/factory/maxBlooks.js)
+* [Remove Glitches](unobfuscated/factory/removeGlitches.js)
+* [Send Glitch](unobfuscated/factory/sendGlitch.js)
+* [Set All Mega Bot](unobfuscated/factory/setAllMegaBot.js)
+* [Set Cash](unobfuscated/factory/setCash.js)
+### [Fishing Frenzy](unobfuscated/fishing)
+* [Frenzy](unobfuscated/fishing/frenzy.js)
+* [Remove Distraction](unobfuscated/fishing/removeDistraction.js)
+* [Send Distraction](unobfuscated/fishing/sendDistraction.js)
+* [Set Lure](unobfuscated/fishing/setLure.js)
+* [Set Weight](unobfuscated/fishing/setWeight.js)
+### [Flappy Blook](unobfuscated/flappy)
+* [Set Score](unobfuscated/flappy/setScore.js)
+* [Toggle Ghost](unobfuscated/flappy/toggleGhost.js)
+### [Global](unobfuscated/global)
+* [Anti Flood Game](unobfuscated/global/antiFloodGame.js)
+* [Auto Answer](unobfuscated/global/autoAnswer.js)
+* [Auto Sell Dupes On Open](unobfuscated/global/autoSellDupesOnOpen.js)
+* [Every Answer Correct](unobfuscated/global/everyAnswerCorrect.js)
+* [Flood Game](unobfuscated/global/floodGame.js)
+* [Get Daily Rewards](unobfuscated/global/getDailyRewards.js)
+* [Highlight Answers](unobfuscated/global/highlightAnswers.js)
+* [Prevent Suspension](unobfuscated/global/preventSuspension.js)
+* [Remove Random Name](unobfuscated/global/removeRandomName.js)
+* [Sell Cheap Duplicates](unobfuscated/global/sellCheapDuplicates.js)
+* [Sell Duplicate Blooks](unobfuscated/global/sellDuplicateBlooks.js)
+* [Simulate Pack](unobfuscated/global/simulatePack.js.js)
+* [Simulate Unlock](unobfuscated/global/simulateUnlock.js)
+* [Spam Buy Blooks](unobfuscated/global/spamBuyBlooks.js)
+* [Unlock Plus Gamemodes](unobfuscated/global/unlockPlusGamemodes.js)
+* [Use Any Blook](unobfuscated/global/useAnyBlook.js)
+#### [Intervals](unobfuscated/global/intervals)
+* [Auto Answer](unobfuscated/global/intervals/autoAnswer.js)
+* [Highlight Answers](unobfuscated/global/intervals/highlightAnswers.js)
+### [Gold Quest](unobfuscated/gold)
+* [Always Triple](unobfuscated/gold/alwaysTriple.js)
+* [Auto Choose](unobfuscated/gold/autoChoose.js)
+* [Chest ESP](unobfuscated/gold/chestESP.js)
+* [Reset All Gold](unobfuscated/gold/resetAllGold.js)
+* [Reset Players Gold](unobfuscated/gold/resetPlayersGold.js)
+* [Set Gold](unobfuscated/gold/setGold.js)
+* [Swap Gold](unobfuscated/gold/swapGold.js)
+### [Crazy Kingdom](unobfuscated/kingdom)
+* [Choice ESP](unobfuscated/kingdom/choiceESP.js)
+* [Choice ESP Loop](unobfuscated/kingdom/choiceESPLoop.js)
+* [Disable Toucan](unobfuscated/kingdom/disableToucan.js)
+* [Max Stats](unobfuscated/kingdom/maxStats.js)
+* [Set Guests](unobfuscated/kingdom/setGuests.js)
+* [Skip Guest](unobfuscated/kingdom/skipGuest.js)
+### [Racing](unobfuscated/racing)
+* [Instant Win](unobfuscated/racing/instantWin.js)
+### [Battle Royale](unobfuscated/royale)
+* [Auto Answer](unobfuscated/royale/autoAnswer.js)
+#### [Intervals](unobfuscated/royale/intervals)
+* [Auto Answer](unobfuscated/royale/intervals/autoAnswer.js)
+### [Blook Rush](unobfuscated/rush)
+* [Set Blooks](unobfuscated/rush/setBlooks.js)
+* [Set Defense](unobfuscated/rush/setDefense.js)
+### [Tower Defense](unobfuscated/tower-defense)
+* [Earthquake](unobfuscated/tower-defense/earthquake.js)
+* [Max Towers](unobfuscated/tower-defense/maxTowers.js)
+* [Remove Ducks](unobfuscated/tower-defense/removeDucks.js)
+* [Remove Enemies](unobfuscated/tower-defense/removeEnemies.js)
+* [Remove Obsticles](unobfuscated/tower-defense/removeObsticles.js)
+* [Set Damage](unobfuscated/tower-defense/setDmg.js)
+* [Set Round](unobfuscated/tower-defense/setRound.js)
+* [Set Tokens](unobfuscated/tower-defense/setTokens.js)
+### [Tower Defense 2](unobfuscated/tower-defense-2)
+* [Max Towers](unobfuscated/tower-defense-2/maxTowers.js)
+* [Remove Enemies](unobfuscated/tower-defense-2/removeEnemies.js)
+* [Set Coins](unobfuscated/tower-defense-2/setCoins.js)
+* [Set Health](unobfuscated/tower-defense-2/setHealth.js)
+* [Set Round](unobfuscated/tower-defense-2/setRound.js)
+### [Santa's Workshop](unobfuscated/workshop)
+* [Remove Distractions](unobfuscated/workshop/removeDistractions.js)
+* [Send Distraction](unobfuscated/workshop/sendDistraction.js)
+* [Set Toys](unobfuscated/workshop/setToys.js)
+* [Set Toys Per Question](unobfuscated/workshop/setToysPerQ.js)
+* [Swap Toys](unobfuscated/workshop/swapToys.js)
+</details>
 
-A: This may be because of many factors. 
-Factor 1,𝐘𝐨𝐮 𝐜𝐨𝐩𝐢𝐞𝐝 𝐭𝐡𝐞 𝐰𝐫𝐨𝐧𝐠 𝐜𝐨𝐝𝐞 or you only copied partial code. 
-Factor 2, 𝕋𝕙𝕖 𝕤𝕔𝕣𝕚𝕡𝕥 𝕚𝕤 𝕓𝕣𝕠𝕜𝕖𝕟, contact me through gmail or github. My gmail: 
-Ijustescapedyesterday@gmail.com
-Factor 3: 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙄𝙨𝙨𝙪𝙚𝙨. Try rebooting your computer or logging in on blooket to your
-account that is unbanned. Has to be a student account in order to work.
-Factor 4: 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐯𝐞 𝐈𝐬𝐬𝐮𝐞𝐬. Try using another browser (EG: Chrome, Edge, Firefox) that could 
-use the inspect element, or check your browser settings for inspect element.
-_________________________________________________________________________________________
-
-Q: Will I get banned for using this?
-
-A: It is highly unlikely for the blooket staff to detect that you are exploiting. However, they 
-COULD detect you if you changed the code, for things such as changing the daily token limit of 
-500, or changing the daily xp value.
-____________________________________________________________________________________________
-
-Q: Are you guys trying to hack me? Is this legit?
-
-A: No. We are not trying to hack you or steal your information in any way. We created this 
-script for the community, instead of for our own needs. This is legit, it is protected by
-MIT's legal licence for copyright and distribution issues. Read Legel Licence for more info.
-____________________________________________________________________________________________
-
-Got any more questions? File an issue on github and we'll respond within 24 hours!
-
-
-
-~~~~~~~~ WARNING: OVER EXPLOITING THE USES OF THESE SCRIPTS Might Result in a Ban in Blooket ~~~~~~~  
-
-Scripts written by OneMinesraft2
-
-Link for our discord: https://discord.gg/QznzysxvX4 (Join if you need extra assistance from out staff)
-
- _      _ _          _   _            _____                      _ _                    
- | |    (_) |        | | | |          |  __ \                    (_) |                   
- | |     _| | _____  | |_| |__   ___  | |__) |___ _ __   ___  ___ _| |_ ___  _ __ _   _  
- | |    | | |/ / _ \ | __| '_ \ / _ \ |  _  // _ \ '_ \ / _ \/ __| | __/ _ \| '__| | | | 
- | |____| |   <  __/ | |_| | | |  __/ | | \ \  __/ |_) | (_) \__ \ | || (_) | |  | |_| | 
- |______|_|_|\_\___|  \__|_| |_|\___| |_|  \_\___| .__/ \___/|___/_|\__\___/|_|   \__, | 
-                                                 | |                               __/ | 
-                                                 |_|                              |___/                                                 
-    _____         _____                    
-  / ____|       |_   _|                   
- | (___   ___     | |     ___ __ _ _ __   
-  \___ \ / _ \    | |    / __/ _` | '_ \  
-  ____) | (_) |  _| |_  | (_| (_| | | | | 
- |_____/ \___/  |_____|  \___\__,_|_| |_| 
-    _____ ______ _______   ____  ______ _______ _______ ______ _____     _____  _____ _____  _____ _____ _______ _____ _ 
-  / ____|  ____|__   __| |  _ \|  ____|__   __|__   __|  ____|  __ \   / ____|/ ____|  __ \|_   _|  __ \__   __/ ____| |
- | |  __| |__     | |    | |_) | |__     | |     | |  | |__  | |__) | | (___ | |    | |__) | | | | |__) | | | | (___ | |
- | | |_ |  __|    | |    |  _ <|  __|    | |     | |  |  __| |  _  /   \___ \| |    |  _  /  | | |  ___/  | |  \___ \| |
- | |__| | |____   | |    | |_) | |____   | |     | |  | |____| | \ \   ____) | |____| | \ \ _| |_| |      | |  ____) |_|
-  \_____|______|  |_|    |____/|______|  |_|     |_|  |______|_|  \_\ |_____/ \_____|_|  \_\_____|_|      |_| |_____/(_)
-  12,504 total views
-                                                                                                                        
-                                                                                                                        
+[^1]: [Overtime](https://github.com/overtimepog)
